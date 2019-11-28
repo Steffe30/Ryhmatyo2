@@ -1,6 +1,6 @@
 Matti Tamminen
-Miika Raussi
-Matias Kivilahti
 
+Matias Kivilahti
+Niko Stenfors
 Jyri Niemi
 
